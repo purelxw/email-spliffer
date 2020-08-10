@@ -12,7 +12,7 @@
     coolumbrella123 - put his name on it
     
 # Information
-make sure your gmail has less secure apps (https://myaccount.google.com/lesssecureapps)
+Make sure your gmail has less secure apps (https://myaccount.google.com/lesssecureapps)
 
 If you need help, dm my cord: Ice lozza#1337
 
