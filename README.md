@@ -4,6 +4,10 @@
 # Installation
     pip install colorama
     
+    pip install smtplib
+
+    pip install getpass
+    
 # Skids
     coolumbrella123 - put his name on it
     
