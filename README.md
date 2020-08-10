@@ -1,4 +1,12 @@
 # Email Spliffer
-https://cdn.discordapp.com/attachments/631162287968747550/742335342471938099/email-spliffer.png
+![alt text](https://cdn.discordapp.com/attachments/631162287968747550/742335342471938099/email-spliffer.png)
 
+# Installation
+    pip install colorama
+    
+# Skids
+    coolumbrella123 - put his name on it
+    
 # Information
+If you need help, dm my cord: Ice lozza#1337
+Credits to Klarix for a bit of help
