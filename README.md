@@ -14,6 +14,6 @@
 # Information
 Make sure your gmail has less secure apps (https://myaccount.google.com/lesssecureapps)
 
-If you need help, dm my cord: 0ice#1337
+If you need help, dm my cord: 0ICE#1337
 
 Credits to Klarix for a bit of help
