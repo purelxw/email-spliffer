@@ -10,7 +10,7 @@ if len(sys.argv) < 2:
 
 {Fore.LIGHTBLACK_EX}     ┌─┐┌┬┐┌─┐┬┬    {Fore.LIGHTGREEN_EX}┌─┐┌─┐┬  ┬┌─┐┌─┐┌─┐┬─┐
 {Fore.LIGHTBLACK_EX}     ├┤ │││├─┤││    {Fore.LIGHTGREEN_EX}└─┐├─┘│  │├┤ ├┤ ├┤ ├┬┘
-{Fore.LIGHTBLACK_EX}     └─┘┴ ┴┴ ┴┴┴─┘  {Fore.LIGHTGREEN_EX}└─┘┴  ┴─┘┴└  └  └─┘┴└─ {Fore.LIGHTBLACK_EX} made by purelxw aka lozza
+{Fore.LIGHTBLACK_EX}     └─┘┴ ┴┴ ┴┴┴─┘  {Fore.LIGHTGREEN_EX}└─┘┴  ┴─┘┴└  └  └─┘┴└─ {Fore.LIGHTBLACK_EX} made by purelxw
     
 {Fore.LIGHTWHITE_EX}   - make sure your gmail has less secure apps on (https://myaccount.google.com/lesssecureapps)
 {Fore.LIGHTWHITE_EX}   - https://github.com/purelxw
