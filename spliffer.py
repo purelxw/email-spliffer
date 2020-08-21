@@ -1,5 +1,8 @@
-import os, sys, time, getpass, smtplib, colorama
-
+import os
+import sys
+import time
+import smtplib
+import colorama
 from colorama import Fore
 
 if len(sys.argv) < 2:
@@ -24,7 +27,7 @@ print("")
 print("")
 print("")
 spamemail = input(f"{Fore.LIGHTBLACK_EX} Enter spammer's gmail address: "f"{Fore.LIGHTBLUE_EX}")
-spampassword = getpass.getpass(f"{Fore.LIGHTBLACK_EX} Enter spammer's password (will not show on console): "f"{Fore.LIGHTBLUE_EX}")
+spampassword = input(f"{Fore.LIGHTBLACK_EX} Enter spammer's password (will not show on console): "f"{Fore.LIGHTBLUE_EX}")
 
 email = smtplib.SMTP("smtp.gmail.com", 587)
 email.ehlo()
