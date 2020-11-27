@@ -5,4 +5,4 @@
 Make sure your gmail has less secure apps (https://myaccount.google.com/lesssecureapps)
 
 ## Support
-If you need help, dm the discord lozza#0888
+If you need help, dm the discord lozza#0888 or the telegram t.me/purelxw
