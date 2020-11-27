@@ -4,6 +4,5 @@
 # Information
 Make sure your gmail has less secure apps (https://myaccount.google.com/lesssecureapps)
 
-If you need help, dm my cord: purelxw#0808
-
-Credits to Klarix for a bit of help
+## Support
+If you need help, dm the discord lozza#0888
