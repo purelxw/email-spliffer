@@ -1,8 +1,10 @@
+![](https://img.shields.io/github/stars/purelxw/ip-multi?style=social)
+
 # Email Spliffer
-![alt text](https://cdn.discordapp.com/attachments/631162287968747550/742335342471938099/email-spliffer.png)
+![](https://cdn.discordapp.com/attachments/631162287968747550/795099703846109195/unknown.png)
 
 # Information
 Make sure your gmail has less secure apps (https://myaccount.google.com/lesssecureapps)
 
 ## Support
-If you need help, dm the discord lozza#0888 or the telegram t.me/purelxw
+If you need help, dm the discord purelxw#6666 or the telegram t.me/purelxw
