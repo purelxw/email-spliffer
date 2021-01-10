@@ -7,6 +7,3 @@ Spams any email with a gmail without it going into the spam folder.
 
 # Information
 Make sure your gmail has less secure apps (https://myaccount.google.com/lesssecureapps)
-
-## Support
-If you need help, dm the discord lawrence#0001 or the telegram t.me/purelxw
