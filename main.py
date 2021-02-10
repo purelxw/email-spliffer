@@ -6,13 +6,13 @@ import colorama
 import ctypes
 from colorama import Fore
 
-ctypes.windll.kernel32.SetConsoleTitleW('github.com/purelxw')
+ctypes.windll.kernel32.SetConsoleTitleW('github.com/lxws')
 if len(sys.argv) < 2:
     os.system("clear || cls")
     sys.stdout.write(f'''{Fore.RESET}
 
 
-    Author: purelxw
+    Author: lxws aka purelxw 
     
    [{Fore.RED}!{Fore.RESET}] Make sure your gmail has less secure apps on (https://myaccount.google.com/lesssecureapps)
     '''+Fore.RESET)
@@ -21,7 +21,7 @@ print('')
 print('')
 
 spamemail = input(f" [{Fore.RED}?{Fore.RESET}] Enter spammer's gmail address: ")
-spampassword = input(f" [{Fore.RED}?{Fore.RESET}] Enter spammer's password (will not show on console): ")
+spampassword = input(f" [{Fore.RED}?{Fore.RESET}] Enter spammer's password: ")
 
 email = smtplib.SMTP("smtp.gmail.com", 587)
 email.ehlo()
