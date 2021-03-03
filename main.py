@@ -6,13 +6,13 @@ import colorama
 import ctypes
 from colorama import Fore
 
-ctypes.windll.kernel32.SetConsoleTitleW('github.com/lxws')
+ctypes.windll.kernel32.SetConsoleTitleW('email spammer by lozza')
 if len(sys.argv) < 2:
     os.system("clear || cls")
     sys.stdout.write(f'''{Fore.RESET}
 
 
-    Author: lxws aka purelxw 
+    Author: lozza
     
    [{Fore.RED}!{Fore.RESET}] Make sure your gmail has less secure apps on (https://myaccount.google.com/lesssecureapps)
     '''+Fore.RESET)
