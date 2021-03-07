@@ -7,3 +7,6 @@ Spams any email with a gmail without it going into the spam folder.
 
 # Information
 Make sure your gmail has less secure apps (https://myaccount.google.com/lesssecureapps). I did not come up with the name wtf.
+
+## Disclaimer
+This project here has been made for educational purposes only. I do not control the misconduct of my tool. I do not promote the usage of my tool.
